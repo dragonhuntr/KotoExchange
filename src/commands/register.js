@@ -1,9 +1,3 @@
-const { OOPS_TEXT } = require('../messages')
-
-const ADDRESS_TEXT = ', **This is your Koto address!** : '
-
-const nouser = 'User not found, creating an address'
-
 const test = 'You arent meant to view this message, contact Limit#1844!'
 
 const addr = ''
